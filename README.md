@@ -33,5 +33,3 @@
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitish-niraj&show_icons=true&locale=en&layout=compact" alt="nitish-niraj" /></p> 
 
 <p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitish-niraj&show_icons=true&locale=en" alt="nitish-niraj" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitish-niraj&theme=dark" alt="nitish-niraj" /></p>
