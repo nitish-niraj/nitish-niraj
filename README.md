@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **frontend development, DSA**
 
-- 👨‍💻 All of my projects are available at [www.theniraj.tech](www.theniraj.tech)
+- 👨‍💻 All of my projects are available at [https://nkcoder.netlify.app/](https://nkcoder.netlify.app/)
 
 - 📝 I regularly write articles on [https://thenirajblog.wordpress.com/](https://thenirajblog.wordpress.com/)
 
