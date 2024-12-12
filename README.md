@@ -1,4 +1,4 @@
-<img src="https://github.com/nitish-niraj/nitish-niraj/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.jpg" alt="nitish-niraj">
+<img src="https://github.com/nitish-niraj/nitish-niraj/blob/main/NITISH%20%20(1).png" alt="nitish-niraj">
 <h1 align="center">Hi 👋, I'm NITISH KUMAR (NIRAJ)</h1>
 <h3 align="center">An Aspiring Java Developer and Web Developer from India.| Expertise in IoT, Cloud Computing, Android, and Database Technologies | Seeking Entry-Level Opportunities in Software Development</h3>
 
