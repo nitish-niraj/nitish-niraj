@@ -126,21 +126,6 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- GitHub Stats Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30px" height="30px">
-  GitHub Statistics
-</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitish-niraj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitish-niraj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nitish-niraj&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak"/>
-</p>
-
 <!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitish-niraj&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
