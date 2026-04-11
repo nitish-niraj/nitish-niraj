@@ -39,7 +39,7 @@
 
 🎯 Goal: Building AI solutions that make a real-world impact
 
-👨‍💻 All of my projects are available at [**nkcoder.netlify.app**](https://nkcoder.netlify.app/)
+👨‍💻 All of my projects are available at [**https://nitishniraj.netlify.app/**](https://nitishniraj.netlify.app/)
 
 📝 I write articles on [**thenirajblog.wordpress.com**](https://thenirajblog.wordpress.com/)
 
