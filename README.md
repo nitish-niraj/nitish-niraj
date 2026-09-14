@@ -1,10 +1,14 @@
-<!-- ═══════════════════════ ANIMATED HEADER ═══════════════════════ -->
+<!-- ═══════════════════════ HEADER (fully reliable: avatar + text) ═══════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=NITISH%20KUMAR%20(NIRAJ)&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20GenAI%20Developer%20%E2%9A%A1%20Document%20AI%20%E2%9A%A1%20Full-Stack%20ML&descAlignY=52&descSize=18" alt="header"/>
+  <a href="https://github.com/nitish-niraj"><img src="https://github.com/nitish-niraj.png?size=220" width="180" height="180" alt="Nitish Kumar"/></a>
 </p>
 
+<h1 align="center">Hi there, I'm Nitish Kumar (Niraj) 👋</h1>
+
+<h3 align="center">🤖 AI &amp; GenAI Developer ⚡ Document AI ⚡ Full-Stack ML</h3>
+
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=620&lines=Welcome+to+my+AI+%26+GenAI+Universe+%F0%9F%A4%96;Building+RAG+Systems+%26+LLM+Workflows;Fine-tuning+Document+Understanding+Models;Shipping+End-to-End+AI+Products;SIH+2025+%26+IDEATHON+2026+Winner" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=620&lines=Welcome+to+my+AI+%26+GenAI+Universe+%F0%9F%A4%96;Building+RAG+Systems+%26+LLM+Workflows;Fine-tuning+Document+Understanding+Models;Shipping+End-to-End+AI+Products;SIH+2025+%26+IDEATHON+2026+Winner" alt="Typing SVG"/></a>
 </p>
 
 <!-- ═══════════════════════ STATUS STRIP ═══════════════════════ -->
@@ -20,136 +24,63 @@
 
 <!-- ═══════════════════════ ABOUT ═══════════════════════ -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> About Me
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"/> About Me
 </h2>
 
-<table><td width="55%" valign="top">
-
-🧠 **AI & Generative AI Developer** — building intelligent, production-grade systems
-
-🔭 Currently on **ResultKhoj.in** — fine-tuning a **Donut** transformer + hybrid OCR pipeline serving **300K+ records via Elasticsearch**
-
-🌱 Working with **LangChain · Llama 3 · RAG · Fine-tuning · PyTorch · FastAPI**
-
-🏆 **Smart India Hackathon 2025 Winner** (AI/ML Lead) · **IDEATHON 2026 Winner** (IEEE LPU)
-
-💬 Ask me about **GenAI, RAG, Document AI, and Full-Stack ML deployment**
-
-📝 I write articles at [**thenirajblog.wordpress.com**](https://thenirajblog.wordpress.com/)
-
-📫 Reach me at **kumarnitish87461@gmail.com**
-
-📄 My resume: [**Resume (PDF)**](https://drive.google.com/file/d/1ZbmzwMI74Samk0F3xN2A4ZTCCvmbdHDm/view)
-
-⚡ Fun fact: **I think AI will change everything, and I want to be part of that change! 🚀**
-
-</td><td width="45%" align="center">
-
-<a href="https://github.com/candidoscino/github-profile-summary-cards">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitish-niraj&theme=tokyonight" alt="Profile details"/>
-</a>
-
-</td></table>
+<table>
+<tr>
+<td width="55%" valign="top">
+🧠 <b>AI &amp; Generative AI Developer</b> — building intelligent, production-grade systems<br>
+🔭 Currently on <b>ResultKhoj.in</b> — fine-tuning a <b>Donut</b> transformer + hybrid OCR pipeline serving <b>300K+ records via Elasticsearch</b><br>
+🌱 Working with <b>LangChain · Llama 3 · RAG · Fine-tuning · PyTorch · FastAPI</b><br>
+🏆 <b>Smart India Hackathon 2025 Winner</b> (AI/ML Lead) · <b>IDEATHON 2026 Winner</b> (IEEE LPU)<br>
+🎯 Goal: Building AI solutions that make a real-world impact<br>
+👨‍💻 Projects at <a href="https://nitishniraj.netlify.app/"><b>nitishniraj.netlify.app</b></a> · 📝 Blog at <a href="https://thenirajblog.wordpress.com/"><b>thenirajblog.wordpress.com</b></a><br>
+💬 Ask me about <b>GenAI, RAG, Document AI, and Full-Stack ML deployment</b><br>
+📫 Reach me at <b>kumarnitish87461@gmail.com</b><br>
+📄 Resume: <a href="https://drive.google.com/file/d/1ZbmzwMI74Samk0F3xN2A4ZTCCvmbdHDm/view"><b>PDF</b></a><br>
+⚡ Fun fact: <b>I think AI will change everything, and I want to be part of that change! 🚀</b>
+</td>
+<td width="45%" align="center" valign="top">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitish-niraj&theme=tokyonight" alt="GitHub profile details"/>
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ═══════════════════════ EXPERIENCE ═══════════════════════ -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="30" height="30"> Experience
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="30" height="30"/> Experience
 </h2>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-
-**🔷 Tech Specialist — AI & GenAI Projects**
-**[Fruitfusion Advisory LLP · ZenLearn.ai](https://zenlearn.ai)** · *Jul 2024 – Dec 2024*
-- Built a **RAG chatbot** on **Meta Llama 3 + ChromaDB** — citation-backed answers over internal documents
-- Created custom **GPT workflows**; deployed the **Big Five Personality Assessment** platform on **AWS EC2/S3**
-- Shipped an interactive **financial simulation tool** (HTML/CSS/JS + Flask) with a 4-member team
-
-    </td>
-    <td width="50%" valign="top">
-
-**🔷 Flutter Application Development Intern**
-**HealTether Healthcare Services Pvt. Ltd.** · *Nov 2023 – Jan 2024*
-- Designed responsive **Flutter UI** screens from Figma for healthcare workflows
-- Standardized reusable widgets across modules as a shared **design system**
-- Delivered scheduling & data-management flows tested on real devices
-
-    </td>
-  </tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfYcn/giphy.gif" width="30" height="30"> Featured Projects
-</h2>
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-
-#### 📄 [ResultKhoj.in](https://github.com/nitish-niraj/resultkhoj)
-*Mar 2025 – Present*
-
-Document understanding for **government exam results** — fine-tuned **Donut** transformer + **PyMuPDF/OpenCV/PaddleOCR** hybrid pipeline, **300K+ records** indexed in Elasticsearch with sub-second lookup.
-
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Donut-4A90D9?style=flat-square"/>
-  <img src="https://img.shields.io/badge/PaddleOCR-00468F?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/status-live%20pipeline-10b981?style=flat-square"/>
-
-    </td>
-    <td width="33%" valign="top">
-
-#### ✅ [TruthLayer](https://github.com/nitish-niraj/truthlayer)
-*Jun 2026*
-
-**AI fact-verification** for PDFs & images — claims extracted with **Kimi K2.6 vision**, cross-checked against live web evidence, verdicts with citations. Async job API (**<100ms** response) + **191 automated tests**.
-
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tavily-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/>
-
-  <img src="https://img.shields.io/github/stars/nitish-niraj/truthlayer?style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/github/last-commit/nitish-niraj/truthlayer?style=flat-square"/>
-  <img src="https://img.shields.io/github/languages/top/nitish-niraj/truthlayer?style=flat-square"/>
-
-    </td>
-    <td width="33%" valign="top">
-
-#### 🎓 [EduBridge](https://github.com/nitish-niraj/edubridge)
-*Jan 2026 – Apr 2026*
-
-**Teacher–student booking platform** — multi-role dashboards, real-time chat + calendars (**Pusher/Laravel Echo**), **Jitsi Meet** sessions, **PhonePe** payments with escrow-style holding.
-
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pusher-300DFF?style=flat-square&logo=pusher&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jitsi-1D76BA?style=flat-square"/>
-
-  <img src="https://img.shields.io/github/stars/nitish-niraj/edubridge?style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/github/last-commit/nitish-niraj/edubridge?style=flat-square"/>
-  <img src="https://img.shields.io/github/languages/top/nitish-niraj/edubridge?style=flat-square"/>
-
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<b>🔷 Tech Specialist — AI &amp; GenAI Projects</b><br>
+<i>Fruitfusion Advisory LLP · ZenLearn.ai</i> · Jul 2024 – Dec 2024<br>
+• Built a <b>RAG chatbot</b> on <b>Meta Llama 3 + ChromaDB</b> — citation-backed answers over internal documents<br>
+• Created custom <b>GPT workflows</b>; deployed the <b>Big Five Personality Assessment</b> platform on <b>AWS EC2/S3</b><br>
+• Shipped an interactive <b>financial simulation tool</b> (HTML/CSS/JS + Flask) with a 4-member team
+</td>
+<td width="50%" valign="top">
+<b>🔷 Flutter Application Development Intern</b><br>
+<i>HealTether Healthcare Services Pvt. Ltd.</i> · Nov 2023 – Jan 2024<br>
+• Designed responsive <b>Flutter UI</b> screens from Figma for healthcare workflows<br>
+• Standardized reusable widgets across modules as a shared <b>design system</b><br>
+• Delivered scheduling &amp; data-management flows tested on real devices
+</td>
+</tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> Tech Stack
 </h2>
 
-<h3 align="center">🧬 Generative AI & Document Intelligence</h3>
+<h3 align="center">🧬 Generative AI &amp; Document Intelligence</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=66B233" alt="LangChain"/>
   <img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge" alt="RAG"/>
@@ -163,44 +94,35 @@ Document understanding for **government exam results** — fine-tuned **Donut** 
   <img src="https://img.shields.io/badge/ChromaDB-FF6C00?style=for-the-badge" alt="ChromaDB"/>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,keras,sklearn,opencv,huggingface,jupyter" alt="AI/ML icons"/>
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,keras,sklearn,opencv,huggingface,jupyter" alt="AI and ML icons"/></a>
 </p>
 
-<h3 align="center">⚙️ Languages & Backend</h3>
+<h3 align="center">⚙️ Languages &amp; Backend</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,php,dart,flutter,js,html,css,fastapi,flask,laravel" alt="Languages icons"/>
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,cpp,php,dart,flutter,js,html,css,fastapi,flask,laravel" alt="Languages and backend icons"/></a>
 </p>
 
-<h3 align="center">🗄️ Data, Search & Cloud</h3>
+<h3 align="center">🗄️ Data, Search, Cloud &amp; MLOps</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,elasticsearch,aws,docker,git,linux,vscode" alt="Infra icons"/>
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,aws,docker,git,linux,vscode" alt="Infrastructure icons"/></a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase"/>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ═══════════════════════ TROPHY ROOM ═══════════════════════ -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30" height="30"> Trophy Room
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30" height="30"/> Trophy Room
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏅_Smart_India_Hackathon_2025-🥇_Winner_·_AI/ML_Lead-FFD700?style=for-the-badge&labelColor=1a1a2e" alt="SIH 2025 Winner"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8F%85%20Smart%20India%20Hackathon%202025-%F0%9F%A5%87%20Winner%20%C2%B7%20AI%2FML%20Lead-FFD700?style=for-the-badge&labelColor=1a1a2e" alt="SIH 2025 Winner"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/🏅_IDEATHON_2026_·_IEEE_LPU-🥇_Winner-FFA500?style=for-the-badge&labelColor=1a1a2e" alt="IDEATHON 2026 Winner"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8F%85%20IDEATHON%202026%20%C2%B7%20IEEE%20LPU-%F0%9F%A5%87%20Winner-FFA500?style=for-the-badge&labelColor=1a1a2e" alt="IDEATHON 2026 Winner"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Code4City-Civic_Issue_Reporting_System-06b6d4?style=for-the-badge" alt="SIH project"/>
@@ -211,93 +133,74 @@ Document understanding for **government exam results** — fine-tuned **Donut** 
 
 <!-- ═══════════════════════ GITHUB ANALYTICS ═══════════════════════ -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30" height="30"> GitHub Analytics
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30" height="30"/> GitHub Analytics
 </h2>
 
 <table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nitish-niraj&theme=tokyonight" alt="Stats card"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com?user=nitish-niraj&theme=tokyonight&hide_border=true" alt="Streak stats"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nitish-niraj&theme=tokyonight" alt="Top language in repos"/>
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nitish-niraj&theme=tokyonight" alt="Top language in commits"/>
-    </td>
-  </tr>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nitish-niraj&theme=tokyonight" alt="GitHub stats card"/>
+</td>
+<td width="50%" align="center">
+<img src="https://streak-stats.demolab.com?user=nitish-niraj&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nitish-niraj&theme=tokyonight" alt="Top languages in repos"/>
+</td>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nitish-niraj&theme=tokyonight" alt="Top languages in commits"/>
+</td>
+</tr>
 </table>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/7aa2f7/nitish-niraj" alt="Nitish's GitHub contribution chart"/>
+  <img src="https://ghchart.rshah.org/7aa2f7/nitish-niraj" alt="GitHub contribution chart"/>
 </p>
 
-<!-- 🐍 SNAKE ANIMATION — works after you add the workflow file to this repo:
-     1) Copy .github/workflows/snake.yml into the nitish-niraj/nitish-niraj repo and push
-     2) Wait ~2 min for the first "Generate Contribution Snake" run to go green
-     3) Uncomment the block below (remove these surrounding <!-- and --> markers)
+<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
+<h3 align="center">🐍 The snake is hunting my contributions (refreshed daily by GitHub Actions)</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nitish-niraj/nitish-niraj/output/github-contribution-grid-snake.svg" alt="Snake eating contributions"/>
+  <img src="https://raw.githubusercontent.com/nitish-niraj/nitish-niraj/output/github-contribution-grid-snake.svg" alt="Contribution snake animation"/>
 </p>
--->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ═══════════════════════ EDUCATION ═══════════════════════ -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/hxgBOX58bIdVxBeB2w/giphy.gif" width="30" height="30"> Education
+  <img src="https://media.giphy.com/media/hxgBOX58bIdVxBeB2w/giphy.gif" width="30" height="30"/> Education
 </h2>
 
 <p align="center">
-  <a href="https://www.lpu.in/"><img src="https://img.shields.io/badge/🎓_Lovely_Professional_University-MCA_%20·_%202025–2027_%20·_%20CGPA_8.24-1e40af?style=for-the-badge" alt="LPU"/></a>
+  <a href="https://www.lpu.in/"><img src="https://img.shields.io/badge/%F0%9F%8E%93%20Lovely%20Professional%20University-MCA%20%C2%B7%202025%E2%80%932027%20%C2%B7%20CGPA%208.24-1e40af?style=for-the-badge" alt="LPU MCA"/></a>
 </p>
 <p align="center">
-  <a href="https://bhu.ac.in/"><img src="https://img.shields.io/badge/🎓_Banaras_Hindu_University-B.Voc_%20Computer_Applications_%20·_%202021–2024_%20·_%20CGPA_7.67-7c2d12?style=for-the-badge" alt="BHU"/></a>
+  <a href="https://bhu.ac.in/"><img src="https://img.shields.io/badge/%F0%9F%8E%93%20Banaras%20Hindu%20University-B.Voc%20Computer%20Applications%20%C2%B7%202021%E2%80%932024%20%C2%B7%20CGPA%207.67-7c2d12?style=for-the-badge" alt="BHU BVoc"/></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ═══════════════════════ CONNECT ═══════════════════════ -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
-
 <h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"/> Let's Connect
 </h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/niru-nny" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:kumarnitish87461@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/nitish-niraj" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://nitishniraj.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://thenirajblog.wordpress.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog"/>
-  </a>
-  <a href="https://www.instagram.com/niru.nny/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" alt="footer"/>
+  <a href="https://linkedin.com/in/niru-nny" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:kumarnitish87461@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/nitish-niraj" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://nitishniraj.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://thenirajblog.wordpress.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog"/></a>
+  <a href="https://www.instagram.com/niru.nny/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=520&lines=Thanks+for+visiting!+%F0%9F%99%8F;Let's+build+the+future+with+AI+together!+%F0%9F%A4%96" alt="Footer Typing"/>
+  <a href="https://github.com/nitish-niraj"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=520&lines=Thanks+for+visiting!+%F0%9F%99%8F;Let's+build+the+future+with+AI+together!+%F0%9F%A4%96" alt="Thanks for visiting"/></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20and%20AI-black?style=flat-square" alt="Made with love"/>
+  <img src="https://img.shields.io/badge/%C2%A9%202026-Nitish%20Kumar-555?style=flat-square" alt="Copyright"/>
 </p>
