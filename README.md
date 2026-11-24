@@ -159,11 +159,11 @@
   <img src="https://ghchart.rshah.org/7aa2f7/nitish-niraj" alt="GitHub contribution chart"/>
 </p>
 
-<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
-<h3 align="center">🐍 The snake is hunting my contributions (refreshed daily by GitHub Actions)</h3>
+<!-- ═══════════════════════ CONTRIBUTION CAR ═══════════════════════ -->
+<h3 align="center">The Daily Grind — refreshed daily by GitHub Actions</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nitish-niraj/nitish-niraj/output/github-contribution-grid-snake.svg" alt="Contribution snake animation"/>
+  <img src="https://raw.githubusercontent.com/nitish-niraj/nitish-niraj/output/github-drift-graph.svg" alt="Animated GTA-style race car drifting across the GitHub contribution calendar"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -204,3 +204,58 @@
   <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20and%20AI-black?style=flat-square" alt="Made with love"/>
   <img src="https://img.shields.io/badge/%C2%A9%202026-Nitish%20Kumar-555?style=flat-square" alt="Copyright"/>
 </p>
+
+<details>
+<summary><b>How the animated contribution graph works</b></summary>
+
+<br>
+
+The graph is generated with Node.js 20+ from the official GitHub GraphQL `contributionsCollection`. It contains a 53-week calendar, a 14-second Vice City drift loop, and no runtime dependencies.
+
+**Files**
+
+- `src/fetchContributions.js` — live GitHub data, private-contribution support when the token allows it, and deterministic mock fallback.
+- `src/generateSvg.js` — card layout, contribution cells, car artwork, smoke, skid marks, and animation.
+- `.github/workflows/update-drift-graph.yml` — daily generation and publishing to the `output` branch.
+- `dist/github-drift-graph.svg` — generated chart.
+
+**Local mock preview**
+
+```bash
+npm install
+npm run preview
+```
+
+Open `dist/github-drift-graph.svg` in a browser. With no token, `npm run generate` also uses mock data so previews never fail just because credentials are missing.
+
+**Generate from live GitHub data**
+
+Windows PowerShell:
+
+```powershell
+$env:GITHUB_USERNAME = "nitish-niraj"
+$env:GH_TOKEN = "<your-github-token>"
+npm run generate
+```
+
+macOS / Linux:
+
+```bash
+GITHUB_USERNAME="nitish-niraj" GH_TOKEN="<your-github-token>" npm run generate
+```
+
+`GH_TOKEN` is preferred when set; otherwise the generator uses `GITHUB_TOKEN`.
+
+**Daily automation**
+
+The workflow runs at **00:00 IST** (`30 18 * * *` UTC) and can also be started manually from the repository's Actions tab. GitHub automatically provides `GITHUB_TOKEN`. To include private contributions, add a repository secret named `GH_TOKEN` whose token has access to those contributions.
+
+After the workflow runs, it publishes `dist/github-drift-graph.svg` to the `output` branch.
+
+**Embed in a profile README**
+
+```html
+<img src="https://raw.githubusercontent.com/nitish-niraj/nitish-niraj/output/github-drift-graph.svg" alt="Animated GTA-style race car drifting across the GitHub contribution calendar"/>
+```
+
+</details>

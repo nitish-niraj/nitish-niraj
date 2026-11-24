@@ -1,0 +1,15 @@
+{
+  "name": "gta-drift-contribution-graph",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Daily GitHub contribution graph with a Vice City drift animation",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "generate": "node src/generateSvg.js",
+    "preview": "node src/generateSvg.js --mock",
+    "check": "node --check src/fetchContributions.js && node --check src/generateSvg.js"
+  }
+}
